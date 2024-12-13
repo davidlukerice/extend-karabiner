@@ -38,6 +38,23 @@
           "type": "basic"
         },
         {
+          "from": {
+            "key_code": "left_shift",
+            "modifiers": {
+              "mandatory": [],
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to_if_alone": [
+            {
+              "key_code": "z"
+            }
+          ],
+          "type": "basic"
+        },
+        {
           "conditions": [
             {
               "name": "extend",
