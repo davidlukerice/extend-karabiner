@@ -3,6 +3,7 @@
 # Differences to original package
 - caps_lock tapping changed to delete
 - updated keys for ANSI DH mod
+- left_shift is 'z' on single press
 
 # What is this?
 This is a karabiner elements complex ruleset for DreymaR's extend layer. In other words, this allows you to use [DreymaR's Extend Layer](https://dreymar.colemak.org/layers-extend.html) using the MacOS application [Karabiner Elements](https://karabiner-elements.pqrs.org/), with some minor modifications for better usage on MacOS.
