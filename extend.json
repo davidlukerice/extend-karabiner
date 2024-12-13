@@ -47,11 +47,13 @@
               ]
             }
           },
-          "to_if_alone": [
-            {
-              "key_code": "z"
-            }
-          ],
+          "to": [{
+            "key_code": "left_control",
+            "lazy": true
+          }],
+          "to_if_alone": [{
+            "key_code": "b"
+          }],
           "type": "basic"
         },
         {
